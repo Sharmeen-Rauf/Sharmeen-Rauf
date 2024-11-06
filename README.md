@@ -5,9 +5,9 @@
 
 - I’m currently working in **stealth mode 😉**
 
-- Lately, I am learning **Devops and Kaalii Linux**
+- Lately, I am learning **Devops and Ethical Hacking**
 
-- Ask me about **React.js, DevOps and Cloud**
+- Ask me about **React.js, JavaScript and 🐞 Bug Bounty Hunter | 🛡️ Red Teamer**
 
 - How to reach me **sharmeenpakistan8@gmail.com**
 
